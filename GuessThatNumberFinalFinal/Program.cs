@@ -74,6 +74,7 @@ Enjoy playing Guess That Number");
                     Console.WriteLine("Congratulations! " +name +" You guessed correctly");
                     Console.WriteLine("It took you " + noOfGuesses + " guesses");
                     Console.WriteLine("Your Score is: " + score);
+                    Console.ReadKey();
                     flag = true;
                 }
                 else if (userNum > compNum)

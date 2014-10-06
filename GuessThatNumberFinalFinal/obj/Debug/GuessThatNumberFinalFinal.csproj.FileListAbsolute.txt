@@ -6,3 +6,10 @@ C:\Users\Technologist\Documents\GitHub\GuessThatNumberFinalFinal\GuessThatNumber
 C:\Users\Technologist\Documents\GitHub\GuessThatNumberFinalFinal\GuessThatNumberFinalFinal\obj\Debug\GuessThatNumberFinalFinal.pdb
 C:\Users\Technologist\Documents\GitHub\GuessThatNumberFinalFinal\GuessThatNumberFinalFinal\bin\Debug\EntityFramework.dll
 C:\Users\Technologist\Documents\GitHub\GuessThatNumberFinalFinal\GuessThatNumberFinalFinal\bin\Debug\EntityFramework.xml
+C:\Users\Technologist\Documents\GitHub\GuessThatNumberPF\GuessThatNumberFinalFinal\bin\Debug\GuessThatNumberFinalFinal.exe.config
+C:\Users\Technologist\Documents\GitHub\GuessThatNumberPF\GuessThatNumberFinalFinal\obj\Debug\GuessThatNumberFinalFinal.exe
+C:\Users\Technologist\Documents\GitHub\GuessThatNumberPF\GuessThatNumberFinalFinal\obj\Debug\GuessThatNumberFinalFinal.pdb
+C:\Users\Technologist\Documents\GitHub\GuessThatNumberPF\GuessThatNumberFinalFinal\bin\Debug\GuessThatNumberFinalFinal.exe
+C:\Users\Technologist\Documents\GitHub\GuessThatNumberPF\GuessThatNumberFinalFinal\bin\Debug\GuessThatNumberFinalFinal.pdb
+C:\Users\Technologist\Documents\GitHub\GuessThatNumberPF\GuessThatNumberFinalFinal\bin\Debug\EntityFramework.xml
+C:\Users\Technologist\Documents\GitHub\GuessThatNumberPF\GuessThatNumberFinalFinal\obj\Debug\GuessThatNumberFinalFinal.csprojResolveAssemblyReference.cache
